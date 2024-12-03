@@ -1,0 +1,35 @@
+we are going to make a website using Vite+React JS, MongoDB, Express Js, Node Js , Material UI,
+
+we have to install few things at the beigning 
+
+1, npm vite@latest
+npm install
+npm run dev
+2, npm i react-router-dom
+npm install react-icons --save
+npm install bootstrap
+npm install @mui/material @emotion/react @emotion/styled 
+npm install @mui/material @mui/styled-engine-sc styled-components
+////
+front end 
+
+Home 
+product listing 
+cart 
+sign in
+sign up 
+my list
+orders
+search
+my account
+contact 
+about us
+///////////
+using google fonts
+using font family from google fonts 
+
+///// 
+imported the button form https://mui.com/material-ui/react-button/
+make sure that the Button tag should be in capital word
+///
+get react icons from react 
